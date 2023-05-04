@@ -8,5 +8,5 @@ output "DREAM_CLOUD_API_AUDIENCE" {
 }
 
 output "DREAM_CLOUD_API_URL" {
-  value = "https://humane-seal.herokuapp.com"
+  value = "https://api.dreampoc.dev"
 }
